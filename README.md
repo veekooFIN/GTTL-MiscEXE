@@ -1,8 +1,6 @@
-Some files for testing
+Some files for problem solving
 
-Original-fp old floating point fractal codes. As it was years ago.
+Dont seem to work
 
-New versions: 32K RAM - ROMv5a exes: all except
-
-New versions: 64K RAM - ROMv5a exes: rndbrot and rndjulia
+Versions: 32K RAM - ROMv6 exes: all except
 
