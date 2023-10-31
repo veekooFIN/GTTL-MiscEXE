@@ -2,5 +2,7 @@
 
 Versions: 32K RAM - ROMv6 exes: all except
 
-GLCC_RELEASE_2.2-25-gcfb7914
+Versions: 64K RAM - ROMv6 exes: rndbrot and rndjulia
+
+GLCC_RELEASE_2.3
 
